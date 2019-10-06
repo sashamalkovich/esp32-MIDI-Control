@@ -1,0 +1,10 @@
+#define LED_COUNT 8
+#define LED_PIN 13
+#define S_PIN_OUT 32
+#define S_PIN_IN 34
+#define A_C A5
+#define A_C_1 A7
+#define POT_RANGE_LOW 0
+#define POT_RANGE_HI 1024
+#define LED_PIN_0 21
+#define LCD false
