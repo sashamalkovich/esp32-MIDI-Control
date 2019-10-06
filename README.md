@@ -9,4 +9,6 @@ The Desktop Python Utility https://github.com/sashamalkovich/Esp32-Control-T1-py
 also allows you to enter the WiFi login and password.
 Once connected, displays the IP address and port required for Apple MIDI in the appropriate fields.
 
+Tested on node/mcu esp32s
+
 
